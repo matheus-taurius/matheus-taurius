@@ -1,56 +1,56 @@
 # Matheus Uliana
 
-Desenvolvedor em transição para Cientista de Dados
+Developer transitioning into Data Science
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou desenvolvedor com experiência em desenvolvimento web, automações em Python e análise de sistemas.  
-Atualmente direcionando minha carreira para Ciência de Dados, com foco em análise estatística, modelagem preditiva e aplicação de dados em problemas reais de negócio.
+I am a developer with experience in web development, Python automation, and systems analysis.  
+I am currently redirecting my career toward Data Science, focusing on statistical analysis, predictive modeling, and applying data to real-world business problems.
 
-Minha base em desenvolvimento me permite unir engenharia de software com análise de dados estruturada e aplicada.
+My background in software development allows me to combine solid engineering practices with structured and applied data analysis.
 
 ---
 
-## 🛠️ Stack Técnica
+## 🛠️ Technical Stack
 
-### 💻 Desenvolvimento
+### 💻 Development
 - Angular
 - .NET Core
 - PHP
 - Python
 - SQL
 
-### 📊 Data Science (em evolução)
+### 📊 Data Science (in progress)
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
-- Estatística aplicada
-- Análise exploratória de dados
+- Applied Statistics
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## 📈 Jornada de Transição para Data Science
+## 📈 Transition Journey into Data Science
 
 2026
-- Início da formação em Ciência de Dados
-- Projetos práticos com dados públicos
-- Estudo estruturado em estatística e machine learning
-- Construção de portfólio orientado a problemas reais
+- Beginning formal education in Data Science
+- Practical projects using public datasets
+- Structured study of statistics and machine learning
+- Building a portfolio focused on real-world problems
 
-Objetivo:
-Tornar-me Cientista de Dados com forte base técnica e visão estratégica de negócio.
+Goal:  
+To become a Data Scientist with a strong technical foundation and a strategic business mindset.
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-### 🔹 Projetos de Ciência de Dados
-- (em construção)
+### 🔹 Data Science Projects
+- (in progress)
 
-### 🔹 Projetos de Desenvolvimento
-- Sistema de gestão logística
-- Automações em Python
-- Aplicações web full stack
+### 🔹 Development Projects
+- Logistics management system
+- Python automation tools
+- Full-stack web applications
